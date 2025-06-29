@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/bejiihiu/nometa-templates/main/templates.json
 
 * Кэшируй, обновляй и показывай пользователям по inline-запросу
 
-Если нужен код inline-бота — [вот пример на Node.js (Telegraf)](https://github.com/ТВОЙ_ЮЗЕР/nometa)
+Если нужен код inline-бота — [вот пример на Node.js (Telegraf)](https://github.com/bejiihiu/nometa)
 
 ---
 
